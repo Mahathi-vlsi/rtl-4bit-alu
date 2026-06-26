@@ -13,6 +13,8 @@ A synthesizable 4-bit Arithmetic Logic Unit designed in Verilog RTL.
 - `tb_alu_4bit.v` - Self-checking testbench
 
 ### Simulation
-Vivado waveform screenshots will be added soon.
+Vivado simulation output for ADD and SUB operations
+ ![ALU Waveform](IMG-20260624-WA0047.jpg)
+19 **Author**: Mahathi-vlsi
 
-**Author**: Mahathi-vlsi
+
