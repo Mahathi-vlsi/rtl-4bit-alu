@@ -14,7 +14,7 @@ A synthesizable 4-bit Arithmetic Logic Unit designed in Verilog RTL.
 
 ### Simulation
 Vivado simulation output for ADD and SUB operations
- ![ALU Waveform](IMG-20260624-WA0047.jpg)
+![ALU Waveform](IMG-20260624WA0047.jpg)
 19 **Author**: Mahathi-vlsi
 
 
